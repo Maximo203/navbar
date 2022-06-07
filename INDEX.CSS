@@ -1,0 +1,30 @@
+.encabezado {
+    box-sizing: border-box;
+    background-color: #FF5E5B;
+    margin: 0%;
+    width: 100vw;
+    height: 150px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+}
+.body {
+    background-color: #cdcd1c;
+}
+.logo {
+    position: fixed;
+    left: 50px;
+}
+
+.font {
+    font-family: 'Kanit', sans-serif;
+    position: fixed;
+    right: 65px;
+    top: 35px;
+    word-spacing: 60px;
+    color: #FFFFEA;
+    font-size: 150%;
+}
+
+
